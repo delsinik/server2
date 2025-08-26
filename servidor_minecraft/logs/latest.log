@@ -221,3 +221,33 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [26Aug2025 01:09:05.171] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-63, y=111, z=-178}
 [26Aug2025 01:09:27.169] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-59, y=113, z=-191}
 [26Aug2025 01:11:56.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YESTKI fell from a high place
+[26Aug2025 01:12:21.716] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YESTKI was shot by Skeleton
+[26Aug2025 01:12:43.311] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YESTKI was shot by Skeleton
+[26Aug2025 01:13:23.665] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-72, y=72, z=-161} BlockPos{x=-72, y=68, z=-164}
+[26Aug2025 01:13:23.714] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-72, y=72, z=-161} BlockPos{x=-71, y=67, z=-164}
+[26Aug2025 01:13:23.964] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-72, y=72, z=-161} BlockPos{x=-72, y=68, z=-164}
+[26Aug2025 01:13:24.320] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YESTKI has made the advancement [Stone Age]
+[26Aug2025 01:13:24.369] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-72, y=72, z=-161} BlockPos{x=-69, y=67, z=-165}
+[26Aug2025 01:13:24.565] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-72, y=72, z=-161} BlockPos{x=-69, y=67, z=-165}
+[26Aug2025 01:13:24.814] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-72, y=72, z=-161} BlockPos{x=-69, y=67, z=-165}
+[26Aug2025 01:13:25.563] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-72, y=72, z=-161} BlockPos{x=-72, y=68, z=-164}
+[26Aug2025 01:13:27.022] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-72, y=72, z=-161} BlockPos{x=-72, y=68, z=-164}
+[26Aug2025 01:13:27.264] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-72, y=72, z=-161} BlockPos{x=-70, y=67, z=-164}
+[26Aug2025 01:13:28.614] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-72, y=72, z=-161} BlockPos{x=-71, y=69, z=-163}
+[26Aug2025 01:13:28.816] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-72, y=72, z=-161} BlockPos{x=-71, y=69, z=-163}
+[26Aug2025 01:13:28.914] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-72, y=72, z=-161} BlockPos{x=-71, y=69, z=-163}
+[26Aug2025 01:13:29.363] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-72, y=72, z=-161} BlockPos{x=-68, y=67, z=-164}
+[26Aug2025 01:13:30.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YESTKI has made the advancement [Monster Hunter]
+[26Aug2025 01:13:33.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [delsinik: Teleported YESTKI to delsinik]
+[26Aug2025 01:13:46.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YESTKI was slain by Raccoon
+[26Aug2025 01:15:03.975] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: delsinik has made the advancement [Isn't It Iron Pick]
+[26Aug2025 01:15:12.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YESTKI has made the advancement [Isn't It Iron Pick]
+[26Aug2025 01:15:46.567] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: delsinik has made the advancement [Suit Up]
+[26Aug2025 01:16:10.462] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YESTKI was shot by Skeleton
+[26Aug2025 01:16:12.820] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: delsinik has made the advancement [Monster Hunter]
+[26Aug2025 01:16:20.868] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [delsinik: Teleported YESTKI to delsinik]
+[26Aug2025 01:16:33.614] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YESTKI was shot by Skeleton
+[26Aug2025 01:16:42.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [delsinik: Teleported YESTKI to delsinik]
+[26Aug2025 01:16:43.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: delsinik has made the advancement [Mine? Mine? Mine?]
+[26Aug2025 01:17:22.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [delsinik: Set the time to 1000]
+[26Aug2025 01:17:38.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YESTKI has made the advancement [Suit Up]
