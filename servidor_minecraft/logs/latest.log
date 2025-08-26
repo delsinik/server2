@@ -251,3 +251,46 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [26Aug2025 01:16:43.259] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: delsinik has made the advancement [Mine? Mine? Mine?]
 [26Aug2025 01:17:22.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [delsinik: Set the time to 1000]
 [26Aug2025 01:17:38.415] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YESTKI has made the advancement [Suit Up]
+[26Aug2025 01:23:02.346] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Boat (vehicle of YESTKI) moved wrongly! 0.30636309148609087
+[26Aug2025 01:23:14.562] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: delsinik was slain by Cachalot Whale
+[26Aug2025 01:23:24.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [delsinik: Teleported delsinik to YESTKI]
+[26Aug2025 01:23:28.965] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YESTKI was slain by Cachalot Whale
+[26Aug2025 01:23:36.023] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-71, y=58, z=180} BlockPos{x=-73, y=60, z=178}
+[26Aug2025 01:23:42.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [delsinik: Teleported YESTKI to delsinik]
+[26Aug2025 01:23:54.566] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: YESTKI lost connection: Disconnected
+[26Aug2025 01:23:54.566] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YESTKI left the game
+[26Aug2025 01:24:50.978] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: YESTKI[/127.70.222.138:60253] logged in with entity id 13816 at (-78.01353969630111, 63.085764312744146, 167.29743096978933)
+[26Aug2025 01:24:50.988] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YESTKI joined the game
+[26Aug2025 01:30:42.212] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YESTKI was slain by Cachalot Whale
+[26Aug2025 01:30:48.272] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [delsinik: Teleported YESTKI to delsinik]
+[26Aug2025 01:30:54.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YESTKI has made the advancement [Sweet Dreams]
+[26Aug2025 01:31:10.963] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YESTKI was slain by Zombie
+[26Aug2025 01:31:11.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: delsinik was shot by Skeleton
+[26Aug2025 01:31:19.774] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YESTKI has made the advancement [Acquire Hardware]
+[26Aug2025 01:31:27.668] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YESTKI was slain by Zombie
+[26Aug2025 01:31:33.764] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: delsinik was slain by Zombie
+[26Aug2025 01:32:09.414] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YESTKI was slain by Zombie
+[26Aug2025 01:32:28.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YESTKI has made the advancement [Getting an Upgrade]
+[26Aug2025 01:37:03.417] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YESTKI tried to swim in lava
+[26Aug2025 01:37:09.020] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [delsinik: Teleported YESTKI to delsinik]
+[26Aug2025 01:37:35.317] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YESTKI has made the advancement [Minecraft Comes Alive]
+[26Aug2025 01:56:07.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YESTKI fell from a high place
+[26Aug2025 01:56:11.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [delsinik: Teleported YESTKI to delsinik]
+[26Aug2025 01:56:29.350] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager VillagerEntityMCA['Zinaida'/17258, l='ServerLevel[world]', x=-201.67, y=64.00, z=381.17] died, message: 'Zinaida was slain by YESTKI'
+[26Aug2025 01:56:29.353] [Server thread/INFO] [net.minecraft.world.entity.LivingEntity/]: Named entity VillagerEntityMCA['Zinaida'/17258, l='ServerLevel[world]', x=-201.67, y=64.00, z=381.17] died: Zinaida was slain by YESTKI
+[26Aug2025 01:57:22.780] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: delsinik moved wrongly!
+[26Aug2025 01:58:53.166] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YESTKI has completed the challenge [Hunted]
+[26Aug2025 01:59:09.265] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YESTKI was slain by Vindicator
+[26Aug2025 01:59:13.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [delsinik: Teleported YESTKI to delsinik]
+[26Aug2025 01:59:27.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: delsinik was slain by Vindicator
+[26Aug2025 01:59:27.918] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for delsinik with unique ID travelersbackpack.cow_26.08.2025-01.59.27.dat
+[26Aug2025 01:59:27.919] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -222 Y: 74 Z: 390
+[26Aug2025 01:59:32.464] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: delsinik lost connection: Disconnected
+[26Aug2025 01:59:32.465] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: delsinik left the game
+[26Aug2025 02:00:27.884] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: delsinik[/127.67.53.15:35163] logged in with entity id 22007 at (-196.5, 72.0, 363.5)
+[26Aug2025 02:00:27.899] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: delsinik joined the game
+[26Aug2025 02:00:39.518] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [delsinik: Teleported delsinik to YESTKI]
+[26Aug2025 02:01:38.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YESTKI has made the advancement [We do a little trolling...]
+[26Aug2025 02:01:54.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: delsinik has made the advancement [We do a little trolling...]
+[26Aug2025 02:02:02.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YESTKI was slain by Kangaroo
+[26Aug2025 02:02:11.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [delsinik: Teleported YESTKI to delsinik]
