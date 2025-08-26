@@ -208,3 +208,16 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [26Aug2025 00:46:18.368] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=-165, y=72, z=359} BlockPos{x=-162, y=71, z=360}
 [26Aug2025 00:50:09.522] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: delsinik lost connection: Disconnected
 [26Aug2025 00:50:09.523] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: delsinik left the game
+[26Aug2025 01:03:01.864] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: YESTKI[/127.70.222.138:54635] logged in with entity id 8459 at (-65.5, 111.0, -182.5)
+[26Aug2025 01:03:01.877] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YESTKI joined the game
+[26Aug2025 01:03:01.996] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YESTKI has made the advancement [Ice and Fire]
+[26Aug2025 01:03:13.394] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: delsinik[/127.67.53.15:36081] logged in with entity id 8577 at (32.22720494848132, 142.0625, 559.9743999484626)
+[26Aug2025 01:03:13.413] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: delsinik joined the game
+[26Aug2025 01:03:36.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: delsinik has made the advancement [Acquire Hardware]
+[26Aug2025 01:03:45.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [delsinik: Teleported delsinik to YESTKI]
+[26Aug2025 01:09:00.577] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YESTKI has made the advancement [Alex's Mobs]
+[26Aug2025 01:09:04.969] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-63, y=112, z=-178}
+[26Aug2025 01:09:05.125] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-63, y=112, z=-178}
+[26Aug2025 01:09:05.171] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-63, y=111, z=-178}
+[26Aug2025 01:09:27.169] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=0, y=0, z=0} BlockPos{x=-59, y=113, z=-191}
+[26Aug2025 01:11:56.466] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YESTKI fell from a high place
