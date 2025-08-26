@@ -865,6 +865,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-08-26 02:06:01 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/transportation/track_mine": {
     "criteria": {
       "has_iron": "2025-08-26 01:31:19 +0000"
@@ -874,6 +880,12 @@
   "minecraft:recipes/building_blocks/acacia_stairs": {
     "criteria": {
       "has_planks": "2025-08-26 01:45:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-08-26 02:06:01 +0000"
     },
     "done": true
   },
@@ -1369,6 +1381,12 @@
     },
     "done": true
   },
+  "alexsmobs:alexsmobs/kangaroo": {
+    "criteria": {
+      "killed_by": "2025-08-26 02:01:38 +0000"
+    },
+    "done": true
+  },
   "securitycraft:recipes/misc/camera_monitor": {
     "criteria": {
       "has_iron": "2025-08-26 01:31:19 +0000"
@@ -1609,6 +1627,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-08-26 02:06:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/acacia_slab": {
     "criteria": {
       "has_planks": "2025-08-26 01:45:57 +0000"
@@ -1723,6 +1747,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-08-26 02:06:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/smoker": {
+    "criteria": {
+      "has_furnace": "2025-08-26 02:06:01 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/purple_oak_crib": {
     "criteria": {
       "has_oak_planks": "2025-08-26 01:31:37 +0000"
@@ -1786,6 +1822,12 @@
   "travelersbackpack:recipes/misc/emerald": {
     "criteria": {
       "has_emerald": "2025-08-26 01:59:38 +0000"
+    },
+    "done": true
+  },
+  "travelersbackpack:recipes/misc/spider": {
+    "criteria": {
+      "has_string": "2025-08-26 02:06:01 +0000"
     },
     "done": true
   },
@@ -2077,6 +2119,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-08-26 02:06:01 +0000"
+    },
+    "done": true
+  },
   "mca:recipes/decorations/orange_oak_crib": {
     "criteria": {
       "has_oak_planks": "2025-08-26 01:31:37 +0000"
@@ -2200,6 +2248,12 @@
   "cfm:recipes/decorations/oak_kitchen_drawer": {
     "criteria": {
       "has_planks": "2025-08-26 01:31:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-08-26 02:06:01 +0000"
     },
     "done": true
   },

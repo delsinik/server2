@@ -3900,3 +3900,17 @@ com.google.gson.JsonSyntaxException: Missing conditions, expected to find a Json
 [26Aug2025 02:01:54.165] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: delsinik has made the advancement [We do a little trolling...]
 [26Aug2025 02:02:02.561] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YESTKI was slain by Kangaroo
 [26Aug2025 02:02:11.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [delsinik: Teleported YESTKI to delsinik]
+[26Aug2025 02:04:37.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YESTKI was doomed to fall by delsinik
+[26Aug2025 02:04:41.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [delsinik: Teleported YESTKI to delsinik]
+[26Aug2025 02:05:58.365] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: delsinik hit the ground too hard whilst trying to escape YESTKI
+[26Aug2025 02:05:58.367] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Created new backpack backup file for delsinik with unique ID travelersbackpack.cow_26.08.2025-02.05.58.dat
+[26Aug2025 02:05:58.367] [Server thread/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Your backpack has been placed at X: -203 Y: 69 Z: 352
+[26Aug2025 02:06:02.344] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [delsinik: Teleported delsinik to YESTKI]
+[26Aug2025 02:06:17.965] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: YESTKI lost connection: Disconnected
+[26Aug2025 02:06:17.966] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: YESTKI left the game
+[26Aug2025 02:06:33.980] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Aug2025 02:06:33.991] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[26Aug2025 02:07:34.313] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: delsinik lost connection: Disconnected
+[26Aug2025 02:07:34.313] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: delsinik left the game
+[26Aug2025 02:11:33.962] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[26Aug2025 02:11:33.974] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
